@@ -26,7 +26,8 @@ SECRET_KEY = 'django-insecure-6+v3wpqbx9ho3)me3mjcp^fo%@agq(szx1!+2yw6p!ww$mx1t%
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'still-everglades-34376.herokuapp.com/'
+    'still-everglades-34376.herokuapp.com/',
+    '*',
 ]
 
 

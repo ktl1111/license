@@ -1,1 +1,2 @@
-web: gunicorn urexpenses.wsgi
+web gunicorn license.wsgi:application --log-file -
+heroku ps:scale web=1
