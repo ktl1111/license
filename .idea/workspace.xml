@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ab39508-4057-4782-89a2-71df1d2539f8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/license/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/license/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +59,7 @@
       <updated>1650954147382</updated>
       <workItem from="1650954154904" duration="115000" />
       <workItem from="1650957049448" duration="610000" />
-      <workItem from="1650961504566" duration="1941000" />
+      <workItem from="1650961504566" duration="2235000" />
     </task>
     <servers />
   </component>
